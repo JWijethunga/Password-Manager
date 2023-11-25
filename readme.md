@@ -12,13 +12,13 @@ This is an unfinished password manager application built with Python, Tkinter, a
 
 ## Planned Enhancements
 
-- **Encrypted Password Storage: Implement robust encryption techniques to safeguard sensitive password data.
-- **Password Generator: Integrate a password generator to create strong, random passwords.
-- **Password Search and Filtering: Enable efficient password search and filtering based on various criteria.
-- **Password Strength Analysis: Provide feedback on password strength to encourage stronger passwords.
+- **Encrypted Password Storage**: Implement robust encryption techniques to safeguard sensitive password data.
+- **Password Generator**: Integrate a password generator to create strong, random passwords.
+- **Password Search and Filtering**: Enable efficient password search and filtering based on various criteria.
+- **Password Strength Analysis**: Provide feedback on password strength to encourage stronger passwords.
 
 ## Dependencies
 
-- **Python 3.x
-- **Tkinter
-- **SQLite3
+- **Python 3.x**
+- **Tkinter**
+- **SQLite3**
