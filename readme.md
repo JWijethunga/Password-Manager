@@ -1,4 +1,4 @@
-# Unfinished Password Manager App
+# Password Manager App
 
 ## Introduction
 
